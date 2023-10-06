@@ -1,0 +1,18 @@
+CREATE TABLE sample1 (
+    name_sample VARCHAR(50) PRIMARY KEY,
+enzymes INT,
+proteins INT,
+genomes INT,
+cell_gorwth INT,
+reproduction INT,
+organelles INT,
+
+
+);
+
+CREATE TABLE sample2 (
+    name_sample VARCHAR(50) PRIMARY KEY,
+     
+    
+
+);
